@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I'm a M.S. Student at <a href="https://cmit.fudan.edu.cn/_t4252/">CMIT Lab</a>, Fudan University.
+- 🎖 Previously, B.S. student at Dalian University of Technology.
+- 📫 How to reach me: aysong24@m.fudan.edu.cn
 <!--
 **anyangsong/anyangsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
