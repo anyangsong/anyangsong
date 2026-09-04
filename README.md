@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm Anyang Song.
-- 🌱 I'm a second-year M.S. Student at <a href="https://cmit.fudan.edu.cn/_t4252/">CMIT Lab</a>, <a href="https://cs.fudan.edu.cn/">Fudan University</a>.
+- 🌱 I'm a third-year M.S. Student at <a href="https://cmit.fudan.edu.cn/_t4252/">CMIT Lab</a>, <a href="https://cs.fudan.edu.cn/">Fudan University</a>.
 - 🎖 Previously, B.E. student at <a href="https://ss.dlut.edu.cn/">Dalian University of Technology</a>.
 - 🤝 I’m looking for **PhD programs**.
 - 📫 How to reach me: aysong24@m.fudan.edu.cn
